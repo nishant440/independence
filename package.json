@@ -21,6 +21,7 @@
     "dotenv": "^17.2.1",
     "express": "^4.18.3",
     "zod": "^3.25.76"
+    
   },
   "devDependencies": {
     "@hookform/resolvers": "^5.2.1",
@@ -92,7 +93,7 @@
     "tsx": "^4.20.3",
     "typescript": "^5.9.2",
     "vaul": "^1.1.2",
-    "vite": "^7.1.2",
+    "vite": "^4.4.9",
     "vitest": "^3.2.4"
   },
   "packageManager": "pnpm@10.14.0"
